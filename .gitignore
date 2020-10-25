@@ -1,0 +1,6 @@
+.idea
+lista.h
+lista_*
+*.o
+server
+client
